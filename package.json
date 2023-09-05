@@ -1,9 +1,11 @@
 {
-  "name": "waqar-game",
+  "name": "waqar-guess-game",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
-  "bin": "index.js",
+  "bin": {
+    "waqar-game": "index.js"
+  },
   "dependencies": {
     "ansi-escapes": "^4.3.2",
     "ansi-regex": "^5.0.1",
@@ -69,11 +71,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waqaraslam1997/Guess-Game.git"
+    "url": "git+https://https://github.com/waqaraslam1997/Waqar-Guess-Game"
   },
   "bugs": {
-    "url": "https://github.com/waqaraslam1997/Guess-Game/issues"
+    "url": "https://https://github.com/waqaraslam1997/Waqar-Guess-Game/issues"
   },
-  "homepage": "https://github.com/waqaraslam1997/Guess-Game#readme",
-  "description": ""
+  "homepage": "https://https://github.com/waqaraslam1997/Waqar-Guess-Game#readme",
+  "description": "Guess Game V1 developed by Waqar Aslam"
 }
